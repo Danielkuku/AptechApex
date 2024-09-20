@@ -2137,6 +2137,13 @@ form h3 {
     flex-direction: column;
     gap: 1.5rem;
   }
+  .hotel-rating .hotel-stars i {
+    font-size: 10px;
+    overflow: hidden;
+  }
+  .hotel-details h3 {
+    font-size: 12px;
+  }
 }
 
 @media screen and (max-width: 375px) {
