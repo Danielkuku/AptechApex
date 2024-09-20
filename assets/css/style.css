@@ -567,7 +567,7 @@ body {
 .popular .container {
   margin: 0 auto;
 }
-.popular .container p,
+.popular-p,
 .popular .container h2 {
   text-align: center;
 }
