@@ -114,6 +114,7 @@ html {
 
 body {
   background: var(--white);
+  overflow-x: hidden;
 }
 
 /*-----------------------------------*\
